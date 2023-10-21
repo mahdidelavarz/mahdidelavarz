@@ -32,11 +32,5 @@
 <!-- ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
-### 📈 My github stats
-
-## ![mahdid GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdidelavarz&show-icons=true&theme=dracula)      <img alt="gmail" height="195px" width="300px" src="https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif" />
-
-### 💻 This week I spent my time on
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdidelavarz)
 ### 🏆 most used lang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidelavarz)](https://github.com/mahdidelavarz)
