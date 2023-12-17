@@ -1,16 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/mahdidelavarz"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
 
 <a href="https://komarev.com/ghpvc/?username=mahdidelavarz">
   <img align="right" src="https://komarev.com/ghpvc/?username=mahdidelavarz&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -34,7 +21,7 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/mahdi-delavar-5338ba280" target="_blank">
-  <img src="[https://www.linkedin.com/in/mahdi-delavar-5338ba280](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9RTTDZpHTSa%2BxOoKGcAPVg%3D%3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="mahdidelavarz"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mahdidelavarz"/>
  </a>
  <a href="https://instagram.com/mahdidelavarz_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="mahdidelavarz" />
