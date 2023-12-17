@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://www.linkedin.com/in/mahdi-delavar-5338ba280?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9RTTDZpHTSa%2BxOoKGcAPVg%3D%3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="mahdidelavarz"/>
+ <a href="https://linkedin.com/in/mahdi-delavar-5338ba280" target="_blank">
+  <img src="[https://www.linkedin.com/in/mahdi-delavar-5338ba280](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9RTTDZpHTSa%2BxOoKGcAPVg%3D%3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="mahdidelavarz"/>
  </a>
  <a href="https://instagram.com/mahdidelavarz_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="mahdidelavarz" />
@@ -127,6 +127,6 @@
   <br/>
 </a>
 
-![Mahdi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdidelavarz&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mahdi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdidelavarz&custom_title=Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
