@@ -96,7 +96,7 @@
 <br/>
 
 ### 💻 This week I spent my time on
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdidelavarz)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdidelavarz&v=2)
 
 <br/>
 <hr/>
