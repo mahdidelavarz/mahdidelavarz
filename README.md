@@ -95,6 +95,12 @@
 <hr/>
 <br/>
 
+### 💻 This week I spent my time on
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdidelavarz)
+
+<br/>
+<hr/>
+<br/>
 <p align="center">
   <a href="https://github.com/mahdidelavarz">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdidelavarz&theme=radical&border=7F3FBF&background=0D1117" alt="Mahdi's GitHub streak"/>
