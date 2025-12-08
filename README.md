@@ -1,108 +1,366 @@
-<a href="https://komarev.com/ghpvc/?username=mahdidelavarz">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mahdidelavarz&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<div align="center">
+
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahdi%20Delavar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<!-- Animated Title -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+TypeScript+Expert+%E2%9A%A1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Clean+Code+Advocate+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mahdi+Delavar!;Front-end+Developer+%7C+React+%7C+TypeScript+Enthusiast;Love+to+learn+%26+build+awesome+UIs"/>
-</h1>
-
+<!-- Social Badges with Hover Effect -->
 <p align="center">
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" height="200" alt="Developer Animation" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mahdi-delavar-5338ba280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/mahdidelavarz_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://facebook.com/mahdi.delavar.79"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-<img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-* 🚀 I'm a passionate **Front-End Developer** from Tabriz, Iran.
-* 🌱 Currently exploring **advanced React, testing tools, and UI/UX best practices**.
-* 🎯 My goal is to **build intuitive, accessible, and high-performing apps**.
-* 💬 Ask me about **React, TypeScript, Tailwind, and frontend architecture**.
-* 📫 How to reach me: **[mdelever77@gmail.com](mailto:mdelever77@gmail.com)**
-* ⚡ Fun fact: I often refactor my CSS just for fun 😄
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,sass,css,html,antdesign,git,mongodb,vscode" />
-</p>
-
----
-
-## ✨ GitHub Highlights
-
-<p align="center">
-  <a href="https://github.com/mahdidelavarz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdidelavarz&theme=react&hide_border=true" />
+  <a href="https://linkedin.com/in/mahdi-delavar-5338ba280">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdidelavarz&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mahdidelavarz">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahdidelavarz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="mailto:mdelever77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/mahdidelavarz_dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="https://github.com/mahdidelavarz">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahdidelavarz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdidelavarz&bg_color=1a1b27&color=7F3FBF&line=F85D7F&point=F8D866&area=true&hide_border=true" />
-</p>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=mahdidelavarz&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- About Me Section with Modern Cards -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 🎯 About Me
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string;
+  languages: string[];
+  specialties: string[];
+  currentlyLearning: string[];
+  goals: string;
+}
+
+const mahdi: Developer = {
+  name: "Mahdi Delavar",
+  location: "Tabriz, Iran 🇮🇷",
+  role: "Frontend Developer",
+  languages: ["JavaScript", "TypeScript"],
+  specialties: [
+    "React.js",
+    "Next.js", 
+    "Redux Toolkit",
+    "Tailwind CSS"
+  ],
+  currentlyLearning: [
+    "Advanced React Patterns",
+    "Testing Best Practices",
+    "Performance Optimization"
+  ],
+  goals: "Building intuitive & accessible web experiences"
+};
+```
+
+<br clear="right"/>
+
+### 💡 Quick Facts
+
+- 🔭 Currently working on **scalable React applications**
+- 🌱 Exploring **advanced frontend architecture & design systems**
+- 💬 Ask me about **React, TypeScript, Tailwind CSS**
+- ⚡ Fun fact: **I refactor CSS for entertainment** 😄
+- 🎨 Passionate about **pixel-perfect implementations**
+
+<br/>
 
 ---
 
-## 🌟 Featured Projects
+<!-- Tech Stack Section with Visual Appeal -->
+## 🛠️ Technology Arsenal
 
-<p align="center">
-  <a href="https://github.com/mahdidelavarz/Digitize-React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdidelavarz&repo=Digitize-React&theme=radical" />
-  </a>
-  <a href="https://github.com/mahdidelavarz/freelancering-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdidelavarz&repo=freelancering-App&theme=radical" />
-  </a>
-  <a href="https://github.com/mahdidelavarz/Booking-Hotel-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdidelavarz&repo=Booking-Hotel-App&theme=radical" />
-  </a>
-  <a href="https://github.com/mahdidelavarz/portfolios">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdidelavarz&repo=portfolios&theme=radical" />
-  </a>
-</p>
+<div align="center">
+
+### 💻 Core Technologies
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Zustand" />
+      <br>Zustand
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tannerlinsley/react-query/master/media/repo-dark.png" width="48" height="48" alt="React Query" style="border-radius: 8px;" />
+      <br>React Query
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+
+### 🎨 Design & Libraries
+
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-## ⏱ Wakatime Weekly Stats
+<!-- GitHub Stats Section with Modern Layout -->
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahdidelavarz&theme=react&hide_border=true" />
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahdidelavarz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F87171&text_color=E5E7EB&ring_color=6366F1" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mahdidelavarz&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F87171&currStreakLabel=E5E7EB" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidelavarz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahdidelavarz&theme=radical&utcOffset=3.5" alt="Productive Time" />
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdidelavarz&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=F87171&point=E5E7EB&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/mahdidelavarz?tab=repositories">
-    <img src="https://img.shields.io/badge/-Explore%20More%20Projects-2962FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<!-- Featured Projects Section -->
+## 🎨 Featured Projects
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%23F8D866&aColor=%23F85D7F&borderColor=%237F3FBF" />
-</p>
+<div align="center">
 
-<p align="center">
-  <samp>Thank you for visiting — let's build something great together!</samp>
-</p>
+### 💼 Main Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 Digitize React
+A modern React application showcasing best practices and clean architecture.
+
+**Tech Stack:** React, TypeScript, Tailwind CSS
+
+<a href="https://github.com/mahdidelavarz/Digitize-React">
+  <img src="https://img.shields.io/badge/View%20Code-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 Freelancing App
+Full-featured freelancing platform with authentication and dashboard.
+
+**Tech Stack:** React, Redux, Node.js, MongoDB
+
+<a href="https://github.com/mahdidelavarz/freelancering-App">
+  <img src="https://img.shields.io/badge/View%20Code-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏨 Booking Hotel App
+Hotel booking system with search, filters, and reservation management.
+
+**Tech Stack:** React, Context API, Leaflet Maps
+
+<a href="https://github.com/mahdidelavarz/Booking-Hotel-App">
+  <img src="https://img.shields.io/badge/View%20Code-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 Portfolio Collection
+Collection of creative portfolio designs and templates.
+
+**Tech Stack:** React, CSS Animations, Responsive Design
+
+<a href="https://github.com/mahdidelavarz/portfolios">
+  <img src="https://img.shields.io/badge/View%20Code-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/mahdidelavarz?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects%20→-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+---
+
+<!-- Achievements Section -->
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahdidelavarz&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- Random Dev Quote -->
+<div align="center">
+
+### 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+
+### 🐍 Watch My Contributions Get Eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdidelavarz/mahdidelavarz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdidelavarz/mahdidelavarz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahdidelavarz/mahdidelavarz/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always interested in hearing about new projects and opportunities!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-delavar-5338ba280)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdelever77@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahdidelavarz_dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mahdidelavarz/portfolios)
+
+<br/>
+
+### ⚡ Quick Stats
+
+![](https://img.shields.io/github/followers/mahdidelavarz?style=for-the-badge&color=6366F1&labelColor=0D1117)
+![](https://img.shields.io/github/stars/mahdidelavarz?style=for-the-badge&color=F87171&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+<div align="center">
+  
+### 🌟 Show some ❤️ by starring some of the repositories!
+
+**💼 Open for freelance work and collaborations**
+
+<sub>Made with ❤️ by Mahdi Delavar</sub>
+
+</div>
